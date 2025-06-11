@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815313584213",
+    "project_id": "me-app-beta",
+    "storage_bucket": "me-app-beta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815313584213:android:864a4294d58a177744d4dc",
+        "android_client_info": {
+          "package_name": "com.tellyoudoc.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqblcmAvwU_M2xGp8EuFC5UdaerkqUwbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815313584213:android:51a754b2a26b69b744d4dc",
+        "android_client_info": {
+          "package_name": "com.tellyoudoc.meapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqblcmAvwU_M2xGp8EuFC5UdaerkqUwbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
